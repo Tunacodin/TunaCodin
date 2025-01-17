@@ -1,67 +1,30 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7567C&center=true&vCenter=true&width=440&lines=Hi+there%2C+I'm+Tuna+Bostancıbaşı!+👋;Passionate+Developer+%7C+Problem+Solver;Building+the+Future+with+Code!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7567C&center=true&vCenter=true&width=440&lines=Hi+there%2C+I'm+Tuna+Bostancıbaşı!+👋;Frontend+%7C+Backend+%7C+ML+Enthusiast!;Keep+Building+and+Keep+Learning!+🚀" alt="Typing SVG" />
 </div>
 
----
-
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Developer at work"/>
-</div>
-
----
-
-## 💡 About Me
-
-- 🎓 **Computer Science Engineer**  
-- 💻 **Frontend | Backend | Mobile Developer**  
-- 🤖 **AI & Machine Learning Enthusiast**  
-- 🛠️ **Solving Problems with Scalable Code**  
-- ⚡ **Fun Fact:** The first program I wrote wasn't "Hello, World!" 😅  
-
----
-
-## 🛠️ Technologies & Tools
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,dotnet,cs,java,redux,sqlite,postgresql" alt="Technologies Used" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Developer Animation" />
 </div>
 
 ---
 
 ## 🌟 Featured Projects
 
-### [TrafficDensityDetection](https://github.com/Tunacodin/TrafficDensityDetection)
-- **Description**: Analyze traffic density using YOLOv8, OpenCV, and Python. Detect, track, and count vehicles with advanced image processing techniques.
-- **Technologies**: Python, OpenCV, YOLOv8  
-- **Purpose**: Solve real-world traffic problems by analyzing traffic flow effectively.
+| Project Name            | Description                                                                                                   | Technologies                                  |
+|-------------------------|---------------------------------------------------------------------------------------------------------------|----------------------------------------------|
+| [TrafficDensityDetection](https://github.com/Tunacodin/TrafficDensityDetection) | Analyze traffic density using YOLOv8 and OpenCV for real-time vehicle tracking.                          | Python, OpenCV, YOLO                         |
+| [SpotifyVoiceAssistant](https://github.com/Tunacodin/SpotifyVoiceAssistant)    | A voice-controlled assistant for interacting with Spotify via commands like play, pause, and search.    | Python, Spotify API, Speech Recognition      |
+| [ApartmentManagement](https://github.com/Tunacodin/ApartmentManagement)        | A system for managing apartment expenses, notifications, and complaints.                                | .NET, C#, React, SQL Server                  |
+| [OtoparkProject](https://github.com/Tunacodin/OtoparkProject)                  | Parking management system for tracking vehicle entry/exit and calculating fees.                         | Node.js, React, SQLite                       |
+| [IzmirEvent](https://github.com/Tunacodin/IzmirEvent)                          | Discover events in İzmir, including concerts and exhibitions.                                           | React, Firebase, TailwindCSS                 |
 
 ---
 
-### [SpotifyVoiceAssistant](https://github.com/Tunacodin/SpotifyVoiceAssistant)
-- **Description**: A voice-controlled assistant to interact with Spotify, enabling users to play, pause, or search songs using voice commands.
-- **Technologies**: Python, Spotify API, Speech Recognition  
-- **Purpose**: Simplify music interaction for a better user experience.
+## 🛠️ Technologies & Tools
 
----
-
-### [ApartmentManagement](https://github.com/Tunacodin/ApartmentManagement)
-- **Description**: A management system for landlords and tenants, providing tools to track expenses, complaints, and notifications in apartment buildings.
-- **Technologies**: C#, .NET, SQL Server, React  
-- **Purpose**: Enhance communication and efficiency in property management.
-
----
-
-### [OtoparkProject](https://github.com/Tunacodin/OtoparkProject)
-- **Description**: A parking management system with features to track vehicle entry and exit, calculate fees, and monitor space availability.
-- **Technologies**: JavaScript, Node.js, React, SQLite  
-- **Purpose**: Streamline parking operations for better resource utilization.
-
----
-
-### [IzmirEvent](https://github.com/Tunacodin/IzmirEvent)
-- **Description**: A web application to discover events in İzmir, showcasing concerts, exhibitions, and cultural activities.
-- **Technologies**: React, Firebase, TailwindCSS  
-- **Purpose**: Bring communities closer by promoting local events.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,dotnet,cs,sqlite,postgresql,tailwind" alt="Technologies Used" />
+</div>
 
 ---
 
