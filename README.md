@@ -1,62 +1,61 @@
-# Merhaba, Ben Tuna Bostancıbaşı 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7567C&center=true&vCenter=true&width=440&lines=Hi+there%2C+I'm+Tuna+Bostancıbaşı!+👋;Frontend+%7C+Backend+%7C+ML+Enthusiast!;Keep+Building+and+Keep+Learning!+🚀" alt="Typing SVG" />
+</div>
 
-## 🚀 Hakkımda
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" />
+</div>
+
+---
+
+## 💡 Hakkımda
 
 - 🎓 **Bilgisayar Mühendisi**  
 - 💻 **Frontend ve Mobil Geliştirici**  
 - 🤖 **Makine Öğrenimi ve Görüntü İşleme ile İlgileniyorum**  
-- 🧠 **Yeni Teknolojileri Keşfetmeyi Seviyorum**  
+- 🌱 **Yeni Teknolojileri Keşfetmeyi Seviyorum**  
 - ⚡ **Eğlenceli Gerçek:** İlk programım "Hello, World!" değildi 😅  
 
 ---
 
 ## 🛠️ Kullandığım Teknolojiler
 
-- **Frontend:**  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-  ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nodejs,dotnet,cs,python,opencv" alt="Kullandığım Teknolojiler" />
+</div>
 
-- **Backend:**  
-  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
-  ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+---
 
-- **Veritabanı:**  
-  ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
+## 🌟 Öne Çıkan Projeler
 
-- **Makine Öğrenimi ve Görüntü İşleme:**  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
-  ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)  
+| Proje Adı              | Açıklama                                                                                                     | Teknolojiler                                    |
+|------------------------|-------------------------------------------------------------------------------------------------------------|------------------------------------------------|
+| [TrafficDensityDetection](https://github.com/Tunacodin/TrafficDensityDetection) | YOLOv8 ve OpenCV kullanarak trafik yoğunluğu analizi.                                  | Python, OpenCV, YOLO                          |
+| [MediaPipe](https://github.com/Tunacodin/MediaPipe)        | Python ile el ve yüz tanıma projeleri geliştiren bir medya işleme uygulaması.         | Python, MediaPipe, OpenCV                     |
+| [BackendAPI](https://github.com/Tunacodin/BackendAPI)      | .NET ve C# kullanılarak geliştirilmiş bir backend API uygulaması.                     | .NET, C#                                      |
+| [PulseMeasurment](https://github.com/Tunacodin/PulseMeasurment) | Mobil cihazlarla nabız ölçümü yapan bir uygulama.                                     | React Native, JavaScript                      |
 
 ---
 
 ## 📈 GitHub İstatistiklerim
 
-![Tunacodin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tunacodin&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tunacodin&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Tunacodin&theme=radical&hide_border=true" width="48%" />
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tunacodin&layout=compact&theme=radical)
-
----
-
-## 📌 Öne Çıkan Projeler
-
-1. **TrafficDensityDetection**  
-   YOLOv8 ve OpenCV kullanarak trafik yoğunluğunu analiz eden bir proje. Python ile geliştirildi.  
-   [GitHub Repo](https://github.com/Tunacodin/TrafficDensityDetection)
-
-2. **MediaPipe**  
-   Python ile el ve yüz tanıma projeleri geliştiren bir medya işleme uygulaması.  
-   [GitHub Repo](https://github.com/Tunacodin/MediaPipe)
-
-3. **BackendAPI**  
-   .NET ve C# kullanılarak geliştirilen bir backend API uygulaması.  
-   [GitHub Repo](https://github.com/Tunacodin/BackendAPI)
-
-4. **PulseMeasurment**  
-   Mobil cihazlarla nabız ölçümü yapan bir uygulama. React Native ile geliştirilmiştir.  
-   [GitHub Repo](https://github.com/Tunacodin/PulseMeasurment)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tunacodin&layout=compact&theme=radical" width="48%" />
+</div>
 
 ---
 
-Bu README dosyasını kullanarak GitHub profilinizi veya projelerinizi daha profesyonel bir şekilde sunabilirsiniz. Dosyayı profil deposuna eklemeniz yeterli. 😊
+## 🔗 İletişim
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tunacodin"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:tunacodin@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Tunacodin"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
